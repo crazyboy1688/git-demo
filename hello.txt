@@ -1,3 +1,4 @@
 hello git hot-fix
 edit by browser
 edit by browser 2
+git-clone edit 1
